@@ -1,2 +1,4 @@
 # UW-Datathon
-University of Waterloo Data Science Club Datathon
+Built a image classification CNN using the VGG16 architecture 
+
+
